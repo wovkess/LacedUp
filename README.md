@@ -1,4 +1,4 @@
 Client:
-    npm start
+    npm start;
 Server: 
-    npm run dev
+    npm run dev;
